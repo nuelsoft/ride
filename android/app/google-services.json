@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "564779815314",
+    "firebase_url": "https://ride-22f71.firebaseio.com",
+    "project_id": "ride-22f71",
+    "storage_bucket": "ride-22f71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564779815314:android:2fbc4b2f6ff9ad0893714b",
+        "android_client_info": {
+          "package_name": "com.soft.ride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564779815314-5vclc1mtei7i4ilhuol42rhrhh54h3af.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIGmibhtw0kcaUJZfff_HsnPz8XdjeqYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564779815314-5vclc1mtei7i4ilhuol42rhrhh54h3af.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
